@@ -1,1 +1,2 @@
 # uzi
+print("hello wrold")
