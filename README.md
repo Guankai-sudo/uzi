@@ -31,7 +31,7 @@ Create a credential from the clearml workspace and paste it above
 <pre>
   python upload_dataset.py
 </pre>
-# Run three steps and store it in the ASL_Classification project
+# Run three steps and store it in the project
 Before starting the following steps, you need to create a new queue called pipeline in the works & queues of clearml, so that subsequent agents can listen to the queue and run the project steps according to their pipeline order.
 ## 1 Upload image dataset and generate metadata
  <pre> python step1_dataset_upload.py</pre>
