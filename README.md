@@ -1,10 +1,10 @@
 # uzi
 
-# Handwritten Character Recognition AI System
-This project aims to develop an AI-powered system that recognizes handwritten text from images using deep learning models. It supports both baseline (CNN-LSTM) and advanced (Transformer-based TrOCR) models, integrated into a modular end-to-end (E2E) pipeline for scalable deployment and experimentation.
+# ASL Hand Sign Recognition AI System
+This project aims to develop an AI-powered system that recognizes static American Sign Language (ASL) hand gestures from images or webcam input using deep learning models. It supports both baseline (CNN-based classifiers) and future-enhanced (sequence-based or transformer-integrated) models, integrated into a modular end-to-end (E2E) pipeline for reproducible training, real-time inference, and collaborative experimentation.
 
 ## Objective
-The handwritten character recognition system is designed to improve efficiency in scenarios where manual data entry or text digitization is time-consuming or error-prone. It can be used in educational institutions for automatically grading handwritten assignments, in financial and legal sectors to digitize handwritten documents, and in government or healthcare systems to extract critical information from handwritten forms. By leveraging state-of-the-art computer vision and deep learning techniques, our system interprets and converts handwritten text into digital format with high accuracy. This solution supports our expansion into the education, finance, and public service sectors by enabling faster, more reliable, and intelligent data processing workflows.
+The ASL recognition system is designed to reduce communication barriers for Deaf and hard-of-hearing individuals by enabling real-time translation of hand gestures into readable text. It has practical applications in customer service environments, public institutions, education, and healthcare—anywhere where inclusive communication is essential. By leveraging modern computer vision techniques and model optimization strategies, our system enables users to perform ASL signs via webcam or image upload and receive accurate, real-time predictions. This project supports broader accessibility initiatives by making sign language interpretation more scalable, affordable, and deployable through web-based interfaces and cloud-integrated ML pipelines.
 
 ## Project structure
 <pre>
